@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deaulaeorumvelo00buchgoog_0006.png"; bbox 0 0 2946 4740; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1121 800 2118 1079">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1121 800 2118 1079">
+     <span class='ocr_line' id='line_1_1' title="bbox 1121 800 2118 1079; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 2045 980 2118 1036; x_wconf 82' lang='grc'>-.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1121 800 1962 1079; x_wconf 37' lang='lat' dir='ltr'>{MUNQQRQQN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1082 758 1678 865">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1082 758 1678 865">
+     <span class='ocr_line' id='line_1_2' title="bbox 1082 758 1678 865; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 1218 758 1678 840; x_wconf 57' lang='grc' dir='ltr'>Ξω-ωωέζ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1082 847 1091 865; x_wconf 20' lang='grc' dir='ltr'>ς</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 703 156 1505 493">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 703 156 1505 493">
+     <span class='ocr_line' id='line_1_3' title="bbox 703 346 1482 493; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 703 346 1482 493; x_wconf 52' lang='grc' dir='ltr'>Ξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 729 156 1505 304; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 729 156 1505 304; x_wconf 43' lang='grc' dir='ltr'>ξῲζὶΐ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
